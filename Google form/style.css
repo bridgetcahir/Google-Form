@@ -1,0 +1,14 @@
+body {
+  background-color: #e6ccff;
+  font-family: Helvetica; /*changes font of entire website*/
+  display: block;
+  margin: 0px 10% 0px 5%; /*remember top, right, bottom, left*/
+  color: #000d33;
+  font size: 20 px;
+}
+h1{
+  text-align: center;
+  color: #000d33
+  text-align: center; /*Center the hi*/
+  text-shadow: 1px 0 0 #400080, 0-1px 0 #400080, 0 1px 0 #400080, -1px 0 0 #400080; /*adding a shadow to my h1*/
+}
